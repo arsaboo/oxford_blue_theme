@@ -2,6 +2,8 @@
 
 Theme for Home Assistant that uses a darker shade of blue.
 
+Any PRs are highly welcome. 
+
 # HACS
 
 You can install this via HACS and keep it up to date. I highly recommend going that route.
