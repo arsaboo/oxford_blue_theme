@@ -1,4 +1,4 @@
-# Oxford blue theme for Home Assistant
+# Oxford Blue theme for Home Assistant
 
 Theme for Home Assistant that uses a darker shade of blue.
 
