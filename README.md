@@ -1,73 +1,20 @@
-# Template Theme
+# Oxford blue theme for Home Assistant
 
-[![Build Status](https://www.travis-ci.org/home-assistant-community-themes/template.svg?branch=master)](https://www.travis-ci.org/home-assistant-community-themes/template)
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
+Theme for Home Assistant that uses a darker shade of blue with orange accents.
 
-<a href="https://www.buymeacoffee.com/maartenpaauw" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+# HACS
 
-> The Template Theme by Maarten Paauw
+You can install this via HACS and keep it up to date. I highly recommend going that route.
 
-## Screenshots
+# Installation
 
-### Overview
+Literally you can just grab the YAML file and put it in your themes folder. If you put it there via git, you can get upstream updates. If you install via HACS, you get them automatically. But it's just a little bit of CSS.
 
-![Theme - Overview](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-overview.png)
+# Screenshots
 
-### Map
-
-![Theme - Map](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-map.png)
-
-### Logbook
-
-![Theme - Logbook](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-logbook.png)
-
-### History
-
-![Theme - History](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-history.png)
-
-### Developer Tools
-
-![Theme - Developer Tools](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-developer-tools.png)
-
-### Configuration
-
-![Theme - Configuration](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-configuration.png)
-
-### Profile
-
-![Theme - Profile](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-profile.png)
-
-## Installation
-
-Add the following code to your `configuration.yaml` file (reboot required).
-
-```yaml
-frontend:
-  ... # your configuration.
-  themes: !include_dir_merge_named themes
-  ... # your configuration.
-```
-
-### HACS
-
-1. Go to the Community Store.
-2. Search for `Template`.
-3. Navigate to `Template` theme.
-4. Press `Install`.
-6. Go to services and trigger the `frontend.reload_themes` service.
-
-### Manual
-
-Clone this repository in your existing (or create it) `themes/` folder.
-
-```bash
-cd themes/
-git clone https://github.com/home-assistant-community-themes/template.git
-```
-
-Or using submodules:
-
-```bash
-cd themes/
-git submodule add https://github.com/home-assistant-community-themes/template.git
-```
+![alt text](https://raw.githubusercontent.com/arsaboo/oxford_blue_theme/master/_screenshots/one.png)
+![alt text](https://raw.githubusercontent.com/arsaboo/oxford_blue_theme/master/_screenshots/two.png)
+![alt text](https://raw.githubusercontent.com/arsaboo/oxford_blue_theme/master/_screenshots/three.png)
+![alt text](https://raw.githubusercontent.com/arsaboo/oxford_blue_theme/master/_screenshots/four.png)
+![alt text](https://raw.githubusercontent.com/arsaboo/oxford_blue_theme/master/_screenshots/five.png)
+![alt text](https://raw.githubusercontent.com/arsaboo/oxford_blue_theme/master/_screenshots/six.png)
