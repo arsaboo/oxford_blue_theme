@@ -1,6 +1,6 @@
 # Oxford blue theme for Home Assistant
 
-Theme for Home Assistant that uses a darker shade of blue with orange accents.
+Theme for Home Assistant that uses a darker shade of blue.
 
 # HACS
 
@@ -8,7 +8,7 @@ You can install this via HACS and keep it up to date. I highly recommend going t
 
 # Installation
 
-Literally you can just grab the YAML file and put it in your themes folder. If you put it there via git, you can get upstream updates. If you install via HACS, you get them automatically. But it's just a little bit of CSS.
+Grab the YAML file and put it in your themes folder. If you put it there via git, you can get upstream updates. If you install via HACS, you get them automatically. But it's just a little bit of CSS.
 
 # Screenshots
 
