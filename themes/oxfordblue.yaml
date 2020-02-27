@@ -14,7 +14,7 @@ oxfordblue:
   primary-background-color: '#f1f5f8'   # Settings background
   secondary-background-color: 'var(--primary-background-color)' # Main card UI background
   sidebar-background-color: 'var(--primary-background-color)'
-  divider-color: '#000000'                  # Divider
+  divider-color: 'var(--secondary-text-color)'
   # Table rows
   table-row-background-color: 'var(--primary-background-color)' # Table row
   table-row-alternative-background-color: '#e4eaf1' # Table row alternative
